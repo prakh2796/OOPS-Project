@@ -1,0 +1,36 @@
+0 Udaipur Junction
+1 H-Nizamuddin
+2 Lucknow Junction
+3 Jaipur Junction
+4 Patel
+5 Yaswantpuram
+6 Howrah Junction
+7 Kalka station
+8 New Delhi Railway Station
+9 Asansol Junction
+10 Bhavnagar Terminal
+11 Kolkata Station
+12 Lalgota Station
+13 Varanasi Junction
+14 Jammu Railway Station
+15 Kanyakumari Station
+16 Amritsar Junction1
+17 Mumbai CST
+18 Hyderabad Deccan Station
+19 Vishakapatnam Station
+20 Bangalore City Station
+21 Chennai Central
+22 Patna Junction
+23 Mewar Junction
+24 Bareilly Junction
+25 Jhansi Railway Station
+26 Gwalior Junction
+27 Etawah Juntion
+28 Ghaziabad Railway Station
+29 Pune Junction
+30 Kota Junction
+31 Gorakhpur Junction
+32 Shimla Junction
+33 Chandigarh Railway Station
+34 Bhopal Junction
+35 Kanpur Central

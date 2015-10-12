@@ -1,0 +1,5 @@
+19 3 1013 M Rajat_Sharma 	Lucknow_Junction 	Bareilly_Junction 
+10 2 1017 F Nirmita_Goyal  	Vishakapatnam_Station	Varanasi_Junction 
+23 1 1021 F Aaushi_Jain 	Vishakapatnam_Station  	Mumbai_CST 
+20 1 1024 M Udit_Aagarwal 	Udaipur_Junction 	Gwalior_Junction 
+50 2 1017 M Utkarsh 		Pune_Junction 		Varanasi_Junction 
